@@ -1,5 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyochn&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyochn&thema=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyochn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kyochn/kyochn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
