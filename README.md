@@ -4,7 +4,7 @@
 - 所属
   - ワイクウーデザイン
   - Iwaken Lab.
-  - RCC(Ritsumeikan Computer Circle)
+  - RCC(Ritsumeikan Computer Club)
   - KC3
 - 興味
   - XR
