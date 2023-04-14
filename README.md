@@ -1,13 +1,19 @@
 # Kyosuke Yamamoto / 山本京介
 - 立命館大学 学部4年
+  - [知的インタラクティブシステム研究室](https://www.iis.ise.ritsumei.ac.jp/)
 - XRエンジニア
 - 所属
-  - ワイクウーデザイン
-  - Iwaken Lab.
-  - RCC(Ritsumeikan Computer Club)
-  - KC3
+  - [ワイクウーデザイン](https://ykuw-design.co.jp/)
+  - [Iwaken Lab.](https://iwakenlab.jp/)
+  - [RCC](http://www.rcc.ritsumei.ac.jp/)
+  - [KC3](https://kc3.me/)
 - 興味
   - XR
+  - 点群処理
+  - Babylon.js
+  - iPhone LiDARスキャン
+  - NeRF(LumaAI)
+  - モデリング
   - Unity
 <!-- 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyochn&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
