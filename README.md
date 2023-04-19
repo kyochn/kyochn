@@ -11,7 +11,7 @@
   - XRコンテンツ開発
   - 点群処理
   - Babylon.js
-  - 3Dスキャン(LiDAR, NeRF)
+  - 3Dスキャン
   - モデリング
   - Unity
 <!-- 
