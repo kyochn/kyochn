@@ -11,8 +11,7 @@
   - XR
   - 点群処理
   - Babylon.js
-  - iPhone LiDARスキャン
-  - NeRF(LumaAI)
+  - 3Dスキャン(LiDAR, NeRF)
   - モデリング
   - Unity
 <!-- 
