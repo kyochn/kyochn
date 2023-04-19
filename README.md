@@ -8,7 +8,7 @@
   - [RCC](http://www.rcc.ritsumei.ac.jp/)
   - [KC3](https://kc3.me/)
 - 興味
-  - XR
+  - XRコンテンツ開発
   - 点群処理
   - Babylon.js
   - 3Dスキャン(LiDAR, NeRF)
